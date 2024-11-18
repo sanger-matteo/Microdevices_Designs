@@ -11,7 +11,7 @@ This repository includes several scripts used in the study. Below is a brief ove
 	- It contains both the *.dwg* and *.stl* of microfluidic molds created via 3D-printing nanolithography.
 
 
-| ![Figure 1]("/Mask Designs/Example_Fig/Growth_and_Isolation device.png") | ![Figure 2]("/Mask Designs/Example_Fig/Mother_machine.png") |
+| ![Figure 1]('Mask Designs/Example_Fig/Growth_and_Isolation device.png') | ![Figure 2]('Mask Designs/Example_Fig/Mother_machine.png') |
 |---|---|
 | Layout of two layer device | Mother machine Si-Photoresist mold |
 
@@ -25,3 +25,5 @@ Some of these files were associated with the following papers (the rest were unp
 
 
 Some more specifics can be found in the [thesis](https://edoc.unibas.ch/65308/1/Thesis_v11_edoc.pdf) manuscript. 
+
+'Mask Designs/Example_Fig/Growth_and_Isolation device.png'
